@@ -1,0 +1,7 @@
+.passthroughSelected-1Eq0Kl {
+    background-color: #FFBA00 !important;
+}
+
+.passthrough-1c2ewQ:not(.passthroughSelected-1Eq0Kl) img {
+  content: url("https://cdn.discordapp.com/attachments/729456400077422623/748313547800313906/yellow.svg");
+}
