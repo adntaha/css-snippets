@@ -1,5 +1,7 @@
 # CSS Snippets for Discord
 
+Little tweaks to discord to make it that little bit better, featuring [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
 ## Installation
 
 ### Browser Client
