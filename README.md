@@ -38,5 +38,7 @@ __SECRET_EMOTION__.injectGlobal(`
 #### With Client Mods
 
 If you're using Powercord, paste it in the Themes > QuickCSS tab.
+
 If you're using BetterDiscord, paste it in the CustomCSS tab.
+
 If you're using something else, follow their guide on how to add custom css.
