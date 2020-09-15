@@ -1,9 +1,9 @@
-div > div.updateIconForeground-3tnNZn {
+svg > div.updateIconForeground-3tnNZn {
   fill: var(--interactive-normal);
 }
-div:hover > .updateIconForeground-3tnNZn {
+svg:hover > .updateIconForeground-3tnNZn {
   fill: var(--interactive-hover);
 }
-div:active > .updateIconForeground-3tnNZn {
+svg:active > .updateIconForeground-3tnNZn {
   fill: var(--interactive-active);
 }
