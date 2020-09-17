@@ -1,0 +1,54 @@
+#---new-messages-bar {
+  margin: 0.5px 20px;
+  top: 0;
+  height: 22px;
+  border-top: 0;
+}
+#---new-messages-bar .content-1o0f9g {
+  font-size: 14px;
+  font-weight: 500;
+  padding: 0 8px;
+  background-color: var(--background-primary);
+  border-radius: 0;
+}
+#---new-messages-bar span::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  top: 50%;
+  left: 0;
+  border-bottom: thin solid;
+  border-color: var(--background-modifier-accent);
+  background-color: #f04747;
+  z-index: -1;
+  opacity: 0.3 !important;
+}
+#---new-messages-bar .content-1o0f9g::after {
+  border-color: currentColor;
+  opacity: 0.7;
+}
+#---new-messages-bar .content-1o0f9g + .unreadPill-2HyYtt::after {
+  display: none;
+}
+#---new-messages-bar .unreadPill-2HyYtt {
+  position: initial;
+  height: 100%;
+  top: 0;
+  color: #f04747;
+  font-weight: 600;
+  padding: 0 8px;
+  background-color: var(--background-primary);
+  font-size: 0;
+}
+#---new-messages-bar .unreadPill-2HyYtt::after {
+  font-size: 14px;
+  content: "NEW MESSAGES";
+  margin-bottom: -2px;
+}
+#---new-messages-bar > span::before {
+  border-color: currentColor;
+  opacity: 0.7;
+}
+#---new-messages-bar .unreadPill-2HyYtt svg {
+  display: none;
+}

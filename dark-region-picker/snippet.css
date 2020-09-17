@@ -1,0 +1,10 @@
+.theme-dark .regionSelectModal-12e-57 {
+  background: var(--background-primary) !important;
+}
+.theme-dark .regionSelectModalOption-2DSIZ3 {
+  background: var(--background-secondary) !important;
+  border-color: var(--background-secondary-alt) !important;
+}
+.theme-dark .regionSelectModalOption-2DSIZ3:hover {
+  border-color: var(--background-tertiary) !important;
+}
