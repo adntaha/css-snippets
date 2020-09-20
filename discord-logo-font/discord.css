@@ -1,0 +1,6 @@
+@font-face {
+  font-family: "Discord";
+  src: url("fonts/discord.woff2") format("woff2"),
+    url("fonts/discord.woff") format("woff");
+  font-style: normal;
+}
