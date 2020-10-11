@@ -1,3 +1,12 @@
+.theme-light .connectionAccountValue-3VdBGs,
+.theme-light .connectionOptionSwitch-3KNn-E .subEnabledTitle-2ElRo_ {
+  color: #ffffff;
+}
+
+.theme-light .connectionAccountLabel-1DiK0A {
+  color: #b9bbbe;
+}
+
 .connectionAccountLabel-1DiK0A {
   visibility: hidden;
 }
@@ -21,7 +30,7 @@
   display: block;
   width: 18px;
   height: 18px;
-  color: var(--header-secondary);
+  color: #b9bbbe;
 }
 
 .connection-1fbD7X {
