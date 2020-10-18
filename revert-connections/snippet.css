@@ -7,6 +7,14 @@
   color: #b9bbbe;
 }
 
+.theme-light .connectionDelete-2Odoln svg path {
+  fill: #f1f1f1;
+}
+
+.theme-light .connectionDelete-2Odoln:hover svg path {
+  fill: #ffffff;
+}
+
 .connectionAccountLabel-1DiK0A {
   visibility: hidden;
 }
