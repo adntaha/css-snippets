@@ -29,7 +29,7 @@
   align-items: center;
   height: 30px;
   width: 30px;
-  border: #ffffff50 1px solid;
+  border: #fff5 1px solid;
   border-radius: 4px;
 }
 
@@ -48,11 +48,11 @@
 }
 
 .connection-1fbD7X .container-3auIfb:not([style*="125"]) {
-  background-color: #ffffff50 !important;
+  background-color: #fff5 !important;
 }
 
 .connection-1fbD7X .container-3auIfb[style*="125"] {
-  background-color: #00000030 !important;
+  background-color: #0003 !important;
 }
 
 .connection-1fbD7X svg.slider-TkfMQL svg {
@@ -60,8 +60,8 @@
 }
 
 .connectionHeader-2MDqhu {
-  background: rgba(0, 0, 0, 0.2);
-  border-bottom: #00000030 1px solid;
+  background: #0002;
+  border-bottom: #0003 1px solid;
 }
 
 .connectionHeader-2MDqhu > img + *::before {
