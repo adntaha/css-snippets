@@ -20,8 +20,6 @@ To remove it, disactivate the user style.
 
 ### Desktop Client
 
-#### Without Client Mods
-
 To remove it, reload the page.
 
 1. On your keyboard, press [Ctrl] [Shift] [i]
@@ -38,9 +36,4 @@ __SECRET_EMOTION__.injectGlobal(`
 5. Press enter
 
 #### With Client Mods
-
-If you're using Powercord, paste it in the Themes > QuickCSS tab.
-
-If you're using BetterDiscord, paste it in the CustomCSS tab.
-
-If you're using something else, follow their guide on how to add custom css.
+Depends on your client mod. Check their documentation/server for a method on adding snippets but the `Without Client Mods` still works
